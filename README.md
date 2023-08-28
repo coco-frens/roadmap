@@ -53,6 +53,14 @@ Should the decision to reissue the token occur, further improvements to the smar
 2. Make the token deflationary - on any Transactions, burn a percentage of the token automatically. (see WHACKD token for example)
 3. Add defi rewards for staking and or locking liquidity pool tokens - upon locking LP tokens the LP tokens can earn a percentage of a special reserve of coins and / or governance tokens. (this practice may or may not be subject to securities laws / liabilities)
 
+---
+
+What if: We keep using the same token
+
+I think it would be important for the token in its current embodiement to allocate an amount while the price is fairly disposable in order to provide some of the utility as described above. Mostly because increasing the utility of the token would lead to success regardless of a token reissue. This allocation should be used for DAO transactions, self sponsored CEX submissions, and perhaps bounties and rewards for community involvement.
+
+
+
 
 
 
