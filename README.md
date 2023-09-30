@@ -14,7 +14,8 @@ The COCO meme, originally presented by Kero is becoming well known among many PE
 
 During the initial deployment, a anonymous party decided to kind of persuade Kero to support a eth speculation token, which at the time many people showed interest in a token on ETH. Typically these tokens of memes are deployed in an anonymous fashion which persuades the community to promote what they believe in and thus we have the meme economy.
 
-The anonymous deployers then decided to leave the project and there was a community takeover.  They then sold all of their vesting tokens they had and have zero interests in the coin forthcoming.
+The anonymous deployers have left the project and there was a community takeover.  They sold all of tokens have zero interests in the coin forthcoming.
+
 ---
 
 Adding utility
